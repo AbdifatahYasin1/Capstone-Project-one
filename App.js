@@ -2,7 +2,7 @@ const header = document.querySelector(".header");
 // const section = document.querySelector(".Section-1");
 // document.section.append(header);
 
-//hanburger menu
+//hanburger menu in js
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-menu");
 
